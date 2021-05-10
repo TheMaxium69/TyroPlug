@@ -1,0 +1,4 @@
+name: TyroPlugin
+main: fr.maxime.tyrolium.plugin.plug
+version: 1.0
+author: Maxime

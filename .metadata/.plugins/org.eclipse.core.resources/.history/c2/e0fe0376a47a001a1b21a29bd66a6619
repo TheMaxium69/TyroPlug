@@ -1,0 +1,9 @@
+package fr.tyrolium.maxime.plugin;
+
+import org.bukkit.event.Listener;
+
+public class commande implements Listener {
+
+	
+
+}

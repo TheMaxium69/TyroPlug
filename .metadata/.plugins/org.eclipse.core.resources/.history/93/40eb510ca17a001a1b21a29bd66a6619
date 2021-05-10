@@ -1,0 +1,8 @@
+name: TyroPlugin
+main: fr.tyrolium.maxime.plugin.main
+version: 1.0
+author: Maxime
+commands:
+  test:
+	  description: Ceci est une commande de test
+	  permission: test.use

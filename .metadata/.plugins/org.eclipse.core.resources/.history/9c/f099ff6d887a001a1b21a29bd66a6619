@@ -1,0 +1,18 @@
+package fr.maxime.tyrolium.plugin;
+
+import org.bukkit.plugin.java.JavaPlugin;
+
+public class plug extends JavaPlugin{
+	
+	@Override
+	public void onEnable() {
+		System.out.println("Mon Plugin = activer !");
+		super.onEnable();
+	}
+	
+	@Override
+	public void onDisable() {
+		System.out.println("Mon Plugin = desactiver !");
+		super.onDisable();
+	}
+}

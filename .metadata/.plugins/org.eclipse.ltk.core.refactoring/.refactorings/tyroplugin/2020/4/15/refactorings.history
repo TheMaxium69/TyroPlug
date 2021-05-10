@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;fr.tyrolium.maxime.plugin.CommandTest&apos; to &apos;commande&apos;&#x0D;&#x0A;- Original project: &apos;tyroplugin&apos;&#x0D;&#x0A;- Original element: &apos;fr.tyrolium.maxime.plugin.CommandTest&apos;&#x0D;&#x0A;- Renamed element: &apos;fr.tyrolium.maxime.plugin.commande&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;CommandTest&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;fr.tyrolium.maxime.plugin{CommandTest.java[CommandTest" matchStrategy="1" name="commande" qualified="false" references="true" similarDeclarations="false" stamp="1586465207421" textual="false" version="1.0"/>
+</session>

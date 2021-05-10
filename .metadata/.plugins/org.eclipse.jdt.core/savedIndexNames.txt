@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+C:\Users\mxmto\Desktop\Développement\Minecraft\Plugin\Workspace\.metadata\.plugins\org.eclipse.jdt.core
+1906737845.index

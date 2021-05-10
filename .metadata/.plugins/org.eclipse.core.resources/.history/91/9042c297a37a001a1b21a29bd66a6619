@@ -1,0 +1,18 @@
+package fr.tyrolium.maxime.plugin;
+
+import org.bukkit.plugin.java.JavaPlugin;
+
+public class main extends JavaPlugin{
+	
+	    @Override
+	    public void onEnable() {
+	        System.out.println("Plugin demarer");
+	        getCommand("test").setExecutor(new CommandTest());
+	    }
+	    
+	    @Override
+	    public void onDisable() {
+	        System.out.println("Plugin arrete");
+	    }
+	    
+}
